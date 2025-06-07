@@ -1,9 +1,26 @@
-main{
-    background-color: orange;
+body{
+    background: gainsboro;
 }
+
+main{
+    color: black;
+    font-size: larger;
+}
+
+header{
+    background-color: gray;
+    font-size: xx-large;
+}
+
+footer{
+    background-color: royalblue;
+    font-size: small;
+}
+
 .logotipo{
     width: 100px;
 }
-.fotodoparaguay{
-    width: 100px;
+
+.fotochamativa{
+    width: 300px;
 }
